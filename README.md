@@ -13,9 +13,9 @@ Hi, I'm [Raul125!](http://foro.neoncommunity.cf/), a person who does what is nee
   
 **Talking about Personal Stuffs:**
 
-- 💻 I’m currently working on Neon Community;
-- 🌱 I’m currently learning Python; 
-- 💬 Ask me about anything, I am happy to help;
+- 💻 I’m currently working on Neon Community.
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
 
