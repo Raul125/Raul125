@@ -9,21 +9,18 @@
 
 <br />
 
-Hi, I'm [Raul125!](https://foro.neoncommunity.cf/), a person who does what is needed 🚀.
+Hi, I'm [Raul125!](https://foro.neoncommunity.cf/) 🚀.
 
   
   
 **Talking about Personal Stuffs:**
 
 - 💻 I’m currently working on Neon Community.
-- 🌱 I’m currently learning Python.
-- 💬 Ask me about anything, I am happy to help.
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
