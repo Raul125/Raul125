@@ -9,8 +9,6 @@
 
 Hi, I'm [Raul125!](https://foro.neoncommunity.cf/) 🚀.
   
-**Talking about Personal Stuffs:**
-
 - 💻 I’m currently working on Neon Community.
 
 📈 My GitHub Stats
