@@ -7,9 +7,7 @@
 
 <br />
 
-Hi, I'm [Raul125!](https://foro.neoncommunity.cf/) 🚀.
-  
-- 💻 I’m currently working on Neon Community.
+Hi, I'm [Raul125!](https://neoncommunity.eu/) 🚀.
 
 📈 My GitHub Stats
 
