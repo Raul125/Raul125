@@ -11,8 +11,4 @@ Hi, I'm [Raul125!](https://neoncommunity.eu/) 🚀.
 
 📈 My GitHub Stats
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Raul125&show_icons=true&theme=gotham" alt="Raul125" />
-
-
-
-
+<p align="left"> <img src="https://stats-vercel-raul125.vercel.app/api?username=Raul125&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&custom_title=Mis%20Estad%C3%ADsticas" alt="Raul125" />
