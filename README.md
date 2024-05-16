@@ -29,7 +29,7 @@
 
 ###
 
-<p align="center">- 🔭 I’m studying DAM<br>- ⚡ In my free time I develop for Neon Community</p>
+<p align="center">- 🔭 Future Higher Technician in Multi-platform Applications Development <br>- ⚡ In my free time, I develop for Neon Community</p>
 
 ###
 
