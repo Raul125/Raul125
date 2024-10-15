@@ -95,7 +95,7 @@
 
 <div align="center">
   <img src="https://stats-vercel-raul125.vercel.app/api?username=Raul125&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://stats-vercel-raul125.vercel.app/api/top-langs?username=Raul125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://stats-vercel-raul125.vercel.app/api/top-langs?username=Raul125&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2&size_weight=0.5&count_weight=0.5" height="150" alt="languages graph"  />
 </div>
 
 ###
